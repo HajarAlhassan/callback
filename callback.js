@@ -34,7 +34,7 @@ var team=[
         let  cell=document.createElement("td");
             tableRow.appendChild(cell);
             table.appendChild(tableRow)
-           cell.innerText="Our Awsome Team members:"
+           cell.innerText="Our Awesome Team members:"
        }
           //set the timer to 1sec befote the display of the first member 
         setTimeout(()=>{
